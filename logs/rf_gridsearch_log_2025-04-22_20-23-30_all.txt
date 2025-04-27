@@ -1,0 +1,223 @@
+==== Random Forest Hyperparameter Search Log ====
+
+Combination 1: {'n_estimators': 300, 'max_depth': 8, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3681
+OOB Score: 0.4191
+
+Combination 2: {'n_estimators': 300, 'max_depth': 8, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4236
+OOB Score: 0.5101
+
+Combination 3: {'n_estimators': 300, 'max_depth': 8, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3765
+OOB Score: 0.4010
+
+Combination 4: {'n_estimators': 300, 'max_depth': 8, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4355
+OOB Score: 0.4841
+
+Combination 5: {'n_estimators': 300, 'max_depth': 8, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3982
+OOB Score: 0.3675
+
+Combination 6: {'n_estimators': 300, 'max_depth': 8, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4296
+OOB Score: 0.4492
+
+Combination 7: {'n_estimators': 300, 'max_depth': 10, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3602
+OOB Score: 0.5727
+
+Combination 8: {'n_estimators': 300, 'max_depth': 10, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4077
+OOB Score: 0.6091
+
+Combination 9: {'n_estimators': 300, 'max_depth': 10, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4103
+OOB Score: 0.5487
+
+Combination 10: {'n_estimators': 300, 'max_depth': 10, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4570
+OOB Score: 0.5866
+
+Combination 11: {'n_estimators': 300, 'max_depth': 10, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4047
+OOB Score: 0.5120
+
+Combination 12: {'n_estimators': 300, 'max_depth': 10, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4385
+OOB Score: 0.5486
+
+Combination 13: {'n_estimators': 300, 'max_depth': 12, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3769
+OOB Score: 0.6596
+
+Combination 14: {'n_estimators': 300, 'max_depth': 12, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4051
+OOB Score: 0.6890
+
+Combination 15: {'n_estimators': 300, 'max_depth': 12, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3741
+OOB Score: 0.6462
+
+Combination 16: {'n_estimators': 300, 'max_depth': 12, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4530
+OOB Score: 0.6663
+
+Combination 17: {'n_estimators': 300, 'max_depth': 12, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4284
+OOB Score: 0.5934
+
+Combination 18: {'n_estimators': 300, 'max_depth': 12, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4681
+OOB Score: 0.6209
+
+Combination 19: {'n_estimators': 500, 'max_depth': 8, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3724
+OOB Score: 0.4329
+
+Combination 20: {'n_estimators': 500, 'max_depth': 8, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4226
+OOB Score: 0.5245
+
+Combination 21: {'n_estimators': 500, 'max_depth': 8, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3887
+OOB Score: 0.4108
+
+Combination 22: {'n_estimators': 500, 'max_depth': 8, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4383
+OOB Score: 0.4905
+
+Combination 23: {'n_estimators': 500, 'max_depth': 8, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3710
+OOB Score: 0.3810
+
+Combination 24: {'n_estimators': 500, 'max_depth': 8, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4246
+OOB Score: 0.4564
+
+Combination 25: {'n_estimators': 500, 'max_depth': 10, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3773
+OOB Score: 0.5791
+
+Combination 26: {'n_estimators': 500, 'max_depth': 10, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4038
+OOB Score: 0.6240
+
+Combination 27: {'n_estimators': 500, 'max_depth': 10, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4163
+OOB Score: 0.5590
+
+Combination 28: {'n_estimators': 500, 'max_depth': 10, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4568
+OOB Score: 0.5978
+
+Combination 29: {'n_estimators': 500, 'max_depth': 10, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3985
+OOB Score: 0.5198
+
+Combination 30: {'n_estimators': 500, 'max_depth': 10, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4612
+OOB Score: 0.5619
+
+Combination 31: {'n_estimators': 500, 'max_depth': 12, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3832
+OOB Score: 0.6664
+
+Combination 32: {'n_estimators': 500, 'max_depth': 12, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4115
+OOB Score: 0.6975
+
+Combination 33: {'n_estimators': 500, 'max_depth': 12, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3939
+OOB Score: 0.6593
+
+Combination 34: {'n_estimators': 500, 'max_depth': 12, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4568
+OOB Score: 0.6774
+
+Combination 35: {'n_estimators': 500, 'max_depth': 12, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4228
+OOB Score: 0.6082
+
+Combination 36: {'n_estimators': 500, 'max_depth': 12, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4680
+OOB Score: 0.6356
+
+Combination 37: {'n_estimators': 700, 'max_depth': 8, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3713
+OOB Score: 0.4395
+
+Combination 38: {'n_estimators': 700, 'max_depth': 8, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4331
+OOB Score: 0.5359
+
+Combination 39: {'n_estimators': 700, 'max_depth': 8, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3567
+OOB Score: 0.4123
+
+Combination 40: {'n_estimators': 700, 'max_depth': 8, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4440
+OOB Score: 0.4970
+
+Combination 41: {'n_estimators': 700, 'max_depth': 8, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3702
+OOB Score: 0.3857
+
+Combination 42: {'n_estimators': 700, 'max_depth': 8, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4350
+OOB Score: 0.4604
+
+Combination 43: {'n_estimators': 700, 'max_depth': 10, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3711
+OOB Score: 0.5864
+
+Combination 44: {'n_estimators': 700, 'max_depth': 10, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4120
+OOB Score: 0.6321
+
+Combination 45: {'n_estimators': 700, 'max_depth': 10, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4141
+OOB Score: 0.5557
+
+Combination 46: {'n_estimators': 700, 'max_depth': 10, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4617
+OOB Score: 0.6002
+
+Combination 47: {'n_estimators': 700, 'max_depth': 10, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4120
+OOB Score: 0.5209
+
+Combination 48: {'n_estimators': 700, 'max_depth': 10, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4616
+OOB Score: 0.5680
+
+Combination 49: {'n_estimators': 700, 'max_depth': 12, 'min_samples_leaf': 5, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.3901
+OOB Score: 0.6733
+
+Combination 50: {'n_estimators': 700, 'max_depth': 12, 'min_samples_leaf': 5, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4143
+OOB Score: 0.6994
+
+Combination 51: {'n_estimators': 700, 'max_depth': 12, 'min_samples_leaf': 10, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4048
+OOB Score: 0.6601
+
+Combination 52: {'n_estimators': 700, 'max_depth': 12, 'min_samples_leaf': 10, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4641
+OOB Score: 0.6797
+
+Combination 53: {'n_estimators': 700, 'max_depth': 12, 'min_samples_leaf': 20, 'max_features': 0.3}
+Balanced Accuracy on Test Set: 0.4381
+OOB Score: 0.6108
+
+Combination 54: {'n_estimators': 700, 'max_depth': 12, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Balanced Accuracy on Test Set: 0.4642
+OOB Score: 0.6400
+
+
+
+=== Best Hyperparameters Found ===
+Best Params: {'n_estimators': 300, 'max_depth': 12, 'min_samples_leaf': 20, 'max_features': 'sqrt'}
+Best Balanced Accuracy: 0.4681
