@@ -5,7 +5,7 @@ The dataset consists of 10,000 training instances and 300 extracted features, pr
 The key objective is to build a robust **multiclass classification** system capable of handling both **class imbalance** and **distribution shifts**.
 ---
 ## Video link
-https://unsw-my.sharepoint.com/:v:/r/personal/z5545738_ad_unsw_edu_au/Documents/9417-BETA.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bMaGVs
+https://unsw-my.sharepoint.com/:v:/g/personal/z5545738_ad_unsw_edu_au/ESsZ3G6S2vFOvhF9yV1BB5kBYXRFnJa5EhCGtqgCJwlIdQ
 
 ---
 
