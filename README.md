@@ -8,6 +8,7 @@ The key objective is to build a robust **multiclass classification** system capa
 
 ## Project Structure
 + **Data/**: Dataset files (`X_train.csv`, `y_train.csv`)
+    - The data is incomplete. For more data, please contact us.
 + **model_lib/**: Model modules
     - `Forest.py`: Random Forest classifier
     - `XGBoostR.py`: XGBoost classifier
