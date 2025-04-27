@@ -1,4 +1,4 @@
-# COMP9417 Group Project BETA
+# COMP9417 Group Project, Team:BETA
 ## Project Description
 This project focuses on developing a machine learning solution to classify customer feedback across 28 different products into corresponding departments.  
 The dataset consists of 10,000 training instances and 300 extracted features, primarily utilizing NLP techniques.  
